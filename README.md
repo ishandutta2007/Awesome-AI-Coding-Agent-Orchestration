@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Coding-Agent-Orchestration?style=flat-square&color=purple" alt="License" /></a>
@@ -82,54 +82,54 @@ The following table benchmarks commercial SaaS platforms and enterprise pipeline
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source frameworks, autonomous coding agents, and harness runtimes empower engineers to coordinate coding agent fleets without vendor lock-in. **Sorted in descending order by GitHub star count**:
+The following open-source frameworks, autonomous coding agents, and harness runtimes empower engineers to coordinate coding agent fleets without vendor lock-in. **Sorted in descending order by GitHub Stars_Count**:
 
-- **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
+- **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub_Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
   🖥️ Open-source coding agent with terminal and desktop surfaces that can be driven as part of larger multi-agent orchestration setups.
 
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
   🙌 Autonomous AI software development platform capable of planning, coding, debugging, executing commands, and opening PRs end-to-end.
 
-- **[Daytona](https://github.com/daytonaio/daytona)** [![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
+- **[Daytona](https://github.com/daytonaio/daytona)** [![GitHub_Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
   🏎️ Open-source developer environment orchestrator providing ephemeral, secure workspace management for autonomous AI coding agents.
 
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
   🌟 Multi-agent orchestration framework simulating a full software company by assigning distinct SOPs to Product Managers, Architects, and Engineers.
 
-- **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+- **[Cline](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
   🤖 Autonomous coding agent extension and CLI with execute, browser, and tool capabilities suitable for scheduled agent runs.
 
-- **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+- **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
   🧩 Multi-agent conversation and orchestration framework from Microsoft enabling complex collaborative workflows and code generation.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   👥 Framework for orchestrating role-playing autonomous AI agents into collaborative crews for multi-step software tasks.
 
-- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
   ⌨️ AI pair programming directly in your terminal, orchestratable via scripts or CI for repeated, scoped coding tasks.
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   🕸️ Library for building resilient multi-agent and stateful agentic workflows with cyclical graph support and human-in-the-loop control.
 
-- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+- **[Continue](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
   ⏩ Open-source AI code assistant providing extension and headless interfaces for developer workflows and custom agents.
 
-- **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
+- **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub_Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
   🐍 Workflow orchestration engine in Python used to schedule, monitor, and retry agentic coding campaigns and fleets.
 
-- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
   ⏳ Durable workflow and execution engine frequently used as the fault-tolerant control plane for long-running agent campaigns.
 
-- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
   🧪 Autonomous software engineering agent designed to solve GitHub issues end-to-end, typically orchestrated in batch campaigns.
 
-- **[Argo Workflows](https://github.com/argoproj/argo-workflows)** [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)  
+- **[Argo Workflows](https://github.com/argoproj/argo-workflows)** [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)  
   ☸️ Kubernetes-native workflow engine used to run, isolate, and deploy agent-produced software changes at scale.
 
-- **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
+- **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub_Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
   📦 Open-source secure sandboxed execution environments for AI coding agents and code interpreters.
 
-- **[Citadel](https://github.com/SethGammon/Citadel)** [![GitHub stars](https://img.shields.io/github/stars/SethGammon/Citadel?style=social&color=white)](https://github.com/SethGammon/Citadel/stargazers)  
+- **[Citadel](https://github.com/SethGammon/Citadel)** [![GitHub_Stars](https://img.shields.io/github/stars/SethGammon/Citadel?style=social&color=white)](https://github.com/SethGammon/Citadel/stargazers)  
   🏰 Agent orchestration harness for Claude Code and Codex with lifecycle hooks, skills, campaign persistence, and parallel worktrees.
 
 ---
